@@ -1,0 +1,26 @@
+# Core Deep Learning
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# PyTorch Geometric + required extensions
+torch-geometric==2.5.3
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch-cluster==1.6.3
+torch-spline-conv==1.2.2
+pyg-lib==0.4.0
+
+# Data Processing
+numpy==1.26.4
+pandas==2.2.2
+polars==0.20.21
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# Visualization
+matplotlib==3.8.4
+
+# Graph Processing
+networkx==3.2.1
