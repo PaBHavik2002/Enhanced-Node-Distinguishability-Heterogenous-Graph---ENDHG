@@ -1,4 +1,4 @@
-# Enhanced-Node-Distinguishability-Heterogenous-Graph---ENDHG
+# Enhanced Node Distinguishability Heterogenous Graph---ENDHG
 # ENDHG-Aligned: Heterogeneous Graph Neural Network
 
 ## Disclaimer
